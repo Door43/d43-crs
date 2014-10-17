@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[crs:home|Door43 (crs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-crs|d43-crs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-crs/archive/master.zip|d43-crs.zip]]
+
+**Recent Changes**
+{{changes>ns = crs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/crs|Ethnologue data]]
+
